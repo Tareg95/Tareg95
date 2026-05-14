@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ahmed Tareg 👋
 
-<!--
-**Tareg95/Tareg95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Computer Engineering student at KTH Stockholm, 
+graduating 2025. I build things at the hardware-software boundary.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+- **Embedded C / C++** — STM32, GPIO, timers, state machines
+- **Python** — simulation, data analysis, Jupyter
+- **Java** — OOP, design patterns
+- **Tools** — STM32CubeIDE, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current project
+Modeling energy consumption and CO₂ emissions of GPU clusters 
+serving AI inference workloads — KTH Bachelor's thesis in 
+Electronics & Computer Engineering.
+
+## 📫 Reach me
+[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ahmed-tareg-24b493204/)) · Stockholm, Sweden
