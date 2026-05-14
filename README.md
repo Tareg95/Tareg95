@@ -10,7 +10,7 @@ I am interested in software and systems close to hardware — embedded systems, 
 - **C / C++** — hardware-near programming and structured system logic
 - **Python** — simulation, data analysis, modeling, and Jupyter notebooks
 - **Java** — object-oriented programming, algorithms, and design patterns
-- **Engineering tools** — Git, VS Code, STM32CubeIDE, QUCS/ngspice, PicoScope
+- **Engineering tools** — Git, VS Code, STM32CubeIDE, QUCS/ngspice, PicoScope. Azure Cloud
 
 ## 🎓 Relevant coursework
 
