@@ -15,4 +15,6 @@ serving AI inference workloads — KTH Bachelor's thesis in
 Electronics & Computer Engineering.
 
 ## 📫 Reach me
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ahmed-tareg-24b493204/)) · Stockholm, Sweden
+[LinkedIn](<img width="1759" height="972" alt="image" src="https://github.com/user-attachments/assets/57acfae9-791a-4fc9-86a5-ffc085367b35" />
+) · Stockholm, Sweden
+ 
